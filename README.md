@@ -79,7 +79,8 @@ Nordic Gleam Core reshapes Skyrim into a survival-driven RPG through tightly int
 - Economic tradeoffs for power
 - Artifact corruption and long-term consequences
 
-Detailed breakdowns can be found in **GAMEPLAY.md**.
+For a detailed breakdown of all gameplay systems, mechanics, and mod references, see the **[GAMEPLAY.md](GAMEPLAY.md)** file.  
+This includes descriptions and Nexus links for every core gameplay mod used in the list.
 
 ---
 
