@@ -191,7 +191,7 @@ Nordic Gleam Core aims to deliver:
 * Tight linkage between progression, economy, and survival
 * A world that feels independent and reactive
 
-This is not a power fantasy.
+This is not a power fantasy..
 It is a **living, reactive RPG foundation**.
 
 [1]: https://www.nexusmods.com/skyrimspecialedition/mods/667?utm_source=chatgpt.com "Campfire - Complete Camping System (Supports Skyrim VR)"
