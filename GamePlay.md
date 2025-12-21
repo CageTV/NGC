@@ -1,215 +1,198 @@
-# GamePlay  
------------------------------------------------------------
+# Gameplay Overview – Nordic Gleam Core
 
-## Sets of Skills
+Nordic Gleam Core restructures Skyrim’s gameplay into a **survival-driven, progression-focused RPG** where preparation, time, and decision-making matter more than raw player level.
 
-### What do the Classes do?
-A Class provides a bonus to exp gained to its related skills (e.g. *Scout* grants bonuses to Archery and Light Armor, and *Mystic* provides bonuses to Illusion and Alteration).  
-It also grants a base perk that gets stronger whenever the Class levels up (e.g. *Rogue*: gain **+2% Attack Speed per Class Level** or *Merchant*: gain **+2% better prices per Class Level**) and afterward grants a new perk for every five Class Levels.
+Rather than scaling the world around the player, the player must grow **into** the world.
 
-### How do I equip a Class?
-Equipping Classes happens through the MCM Menu.  
-You are free to change your Class at any given moment.  
-However, be warned — you will temporarily lose a Class’s skills if it's not mastered and you equip another Class.  
-Alternatively, the mod also provides a *lesser power* that lets you choose your Class. To enable this, check the box under settings.  
-This lesser power uses **UIExtension**, so you will not be able to use it without that dependency.
-
-### How do I level up a Class?
-By having it equipped when the player gains a level up.  
-Because of this, the mod is incompatible with any mods that remove the vanilla level-up menu (the one where you can pick between Health, Magicka, and Stamina).
-
-### What is "mastering" a Class?
-Mastering a Class means that you are now free to unequip this Class without losing its perks or related skills.
-
-### How do I master a Class?
-- **Normal mode:** Once you gain the maximum level of a Class (5, 10, or 15 depending on the Class), it is automatically considered *mastered*. You can then switch to another Class without losing its granted skills.  
-- **Hardcore mode:** Classes are **not** automatically mastered. You must master them manually in the *Overview Tab* of the MCM. In this mode:  
-  - You can only master a limited number of Classes.  
-  - Mastering cannot be reversed, so choose carefully.  
-  - The number of Classes you can master is configurable under settings (after enabling Hardcore Mode).
-
-### How do I unlock new Classes?
-Some Classes have prerequisites before you can choose them.  
-For example:  
-- You must level the *Mage* Class to its maximum before unlocking *Occultist*.  
-- You must master both *Thief* and *Mage* before unlocking *Nightblade*.
-
------------------------------------------------------------
-
-# Leveling  
-
-# Time Based Enemy Scaling
-
-## How It Works + How to Use
-Most mods (like *Experience*) treat the vanilla experience system as part of the player’s progression — XP gain is always good and beneficial.  
-This system takes the **opposite** approach: it disconnects XP gain from the player entirely and ties it to **time**.  
-
-With this system, **leveling up is bad for you and good for your enemies.**  
-The vanilla player-leveling system is now an *enemy-scaling mechanic*.  
-Having level 15, for example, tells you nothing about your abilities or stats — it only reflects how strong your enemies (and the world) have become.
-
-You don’t gain stats from leveling anymore.  
-All leveling does is make enemies stronger.  
-That allows the use of vanilla enemy scaling without major overhauls — you might only want to *unlevel loot* slightly, but nothing more.
-
-Simply put:
-- You can improve skills and stats without affecting your "player level".  
-- The "player level" effectively becomes the **world level** — the value that determines enemy difficulty.  
-- When the game says "Player Level 9", it really means *World Level 9*.  
-- This value increases over time, independently of your actions.  
-- Stronger NPCs get added or replaced depending on cell resets and your installed enemy overhaul mods.
-
-----------------------------------------------------------------
-
-# Quests Award Perk Points
-
-Inspired by ESO’s quest system, this mod awards perk points for completing major quests.  
-This complements perk overhauls that add many new perks and provides extra motivation to complete questlines.
-
-
-
-
-<style>
-.columns {
-  display: flex;
-  justify-content: space-between;
-}
-.column {
-  width: 48%;
-}
-h3 {
-  font-size: 1.2em;
-  margin-top: 1em;
-  color: #d2b48c; /* Slight gold tint if you use it for Skyrim-themed styling */
-}
-</style>
-
-<div class="columns">
-  <div class="column">
-
-### Main Quest
-- Bleak Falls Barrow  
-- Dragon Rising  
-- Diplomatic Immunity  
-- The Horn of Jurgen Windcaller  
-- Alduin's Wall  
-- Elder Knowledge  
-- The Fallen  
-- Dragonslayer  
-
-### Companions
-- The Silver Hand  
-- Glory of the Dead  
-
-### College of Winterhold
-- Revealing the Unseen  
-- The Eye of Magnus  
-
-### Thieves' Guild
-- Darkness Returns  
-- Under New Management  
-
-### Dark Brotherhood
-- Bound Until Death  
-- Hail Sithis!  
-- Destroy the Dark Brotherhood *(optional, see below)*  
-
-### Daedric Quests *(optional, see below)*
-- The Black Star  
-- Boethiah's Calling  
-- A Daedra's Best Friend  
-- Discerning the Transmundane  
-- Ill Met By Moonlight  
-- The Cursed Tribe  
-- Pieces of the Past  
-- The Whispering Door  
-
-  </div>
-  <div class="column">
-
-### Daedric Quests (cont.)
-- The Break of Dawn  
-- The House of Horrors  
-- The Taste of Death  
-- The Only Cure  
-- A Night To Remember  
-- The Mind of Madness  
-- Waking Nightmare  
-
-### Bard's College
-- Tending the Flames  
-
-### Civil War
-- Battle for Whiterun *(both Imperial and Stormcloaks)*  
-- Liberation of Skyrim *(Stormcloaks)*  
-- Reunification of Skyrim *(Imperial)*  
-
-### Dawnguard
-- Beyond Death  
-- Kindred Judgment  
-- Lost to the Ages  
-
-### Dragonborn
-- The Temple of Miraak  
-- The Path of Knowledge  
-- At the Summit of Apocrypha  
-
-### More Vanilla Sidequests
-- Kyne's Sacred Trials  
-- The Blessings of Nature  
-- Blood on the Ice  
-- The Book of Love  
-- The Heart of Dibella  
-- No One Escapes Cidhna Mine  
-- The Wolf Queen Awakened  
-
-  </div>
-</div>
-
-
-# Buying Perks  
-
-Buy stats (**Health**, **Magicka**, **Stamina**, **Carry Weight**, **Movement Speed**) and perk points.  
-Easily enable or disable everything or change prices mid-game.  
-Wide price ranges (**200–100,000 gold**).  
-Compatible with everything — even mods that also modify stats.
-
-Maximum compatibility is achieved through the way stats are applied: they’re added via (almost) infinitely upgradeable **enchanted rings**, which you can equip or unequip at any time.
-
-You can **craft and upgrade** the rings at any forge.  
-They weigh nothing and don’t occupy a body slot.
-
-Each upgrade grants:
-- **+1** Health / Magicka / Stamina / Speed  
-- **+10** Carry Weight  
-
-Each ring can be upgraded **up to 10,000 times!**
-
-While this technically counts as crafting, you’re still spending your gold to gain stats — only instead of a merchant, you’re interacting with a forge.
-
-You can also **buy (craft) and drink the perk point potion** to earn perk points.
+This document explains how the major gameplay systems interact, in the order they are experienced during play.
+Each section includes a reference link to the original mod author’s description page on Nexus for further details.
 
 ---
 
-### Notes
+## 1. Survival Begins in the Wild
 
-1. The rings and the perk potion have low vendor prices, meaning they give very little Smithing experience when crafted.  
-2. Don’t forget to **equip the ring** after upgrading it.  
-3. To declutter the crafting menu, recipes only appear if you have the **required amount of gold**.
+### **Campfire – Complete Camping System**
+
+Before anything else, living off the land becomes a central theme.
+
+Campfire provides a rich, standalone **camping and outdoor survival system**:
+
+* Build campfires to cook, rest, and avoid exposure
+* Craft tents, bedrolls, backpacks, and tools
+* Interact with followers around fires
+* Collect wood and supplies in the environment
+
+**Reference:** [https://www.nexusmods.com/skyrimspecialedition/mods/667](https://www.nexusmods.com/skyrimspecialedition/mods/667) ([Nexus Mods][1])
 
 ---
 
-### Advanced Upgrading
+## 2. Harsh Environments Shape Gameplay
 
-After upgrading your first ring 100 times, you’ll start crafting a second ring.  
-Once you upgrade that one 100 times, you can **merge two level 100 rings** into one.  
-You can then continue merging multiple rings:
+### **Frostfall – Hypothermia Camping Survival**
 
-- Two level 100 rings → one level 200 ring  
-- Level 1000 rings can also merge  
-- Eventually, you can forge a **+10,000 HP ring**, if you wish  
+Environmental conditions become a threat, not background flavor.
 
-You don’t spend any gold when merging rings together.
+Frostfall tracks temperature, weather, and exposure in real time:
 
+* Hypothermia and cold water survival mechanics
+* Gear and heat sources matter for survival
+* Weather and terrain influence your state
+* Deep immersive survival effects without excessive tedium
 
+**Reference:** [https://www.nexusmods.com/skyrimspecialedition/mods/671](https://www.nexusmods.com/skyrimspecialedition/mods/671) ([Nexus Mods][2])
 
+---
+
+## 3. Early Progression — Survival Defines the Start
+
+### **Skills of Survival**
+
+Survival and physical resilience are built into your progression from the beginning.
+
+Experience affects:
+
+* Endurance for travel and exposure
+* Resource management strength
+* Environmental resilience
+* Overall sustainability in the wild
+
+This makes the first stages of the game less forgiving and more strategic.
+
+**Reference:**
+[https://www.nexusmods.com/skyrimspecialedition/mods/89754](https://www.nexusmods.com/skyrimspecialedition/mods/89754)
+
+---
+
+## 4. Develop Your Abilities — Skills With Purpose
+
+### **Set of Skills**
+
+Skyrim’s skill system is expanded to reward deliberate investment:
+
+* Skills strengthen through use
+* Builds become distinct and specialized
+* Power doesn’t arrive automatically
+
+This encourages thoughtful character development over passive scaling.
+
+**Reference:**
+[https://www.nexusmods.com/skyrimspecialedition/mods/55535](https://www.nexusmods.com/skyrimspecialedition/mods/55535)
+
+---
+
+## 5. Quests Become Progression Drivers
+
+### **QAPP – Quests Award Perk Points**
+
+Completing quests now has mechanical significance:
+
+* Perk points are awarded for quest completion
+* Progress is tied to actions, not repetitive grinding
+* Narrative engagement is reinforced
+
+This makes questing feel meaningful beyond just story.
+
+**Reference:**
+[https://www.nexusmods.com/skyrimspecialedition/mods/33081](https://www.nexusmods.com/skyrimspecialedition/mods/33081)
+
+---
+
+## 6. Power Has a Price — The Economy of Growth
+
+### **Buy Stats and Perks**
+
+Getting stronger isn’t free:
+
+* Increasing attributes costs gold
+* Perks also cost a finite resource
+* Economy and progression are interwoven
+* Players must weigh survival vs. strength
+
+Gold becomes strategically important instead of trivial.
+
+**Reference:**
+[https://www.nexusmods.com/skyrimspecialedition/mods/26950](https://www.nexusmods.com/skyrimspecialedition/mods/26950)
+
+---
+
+## 7. Loot and Equipment Are Organic
+
+### **Unleveled Loot and Minimalistic Gear**
+
+Gear doesn’t magically match your power:
+
+* Loot reflects the world, not your level
+* Rare, powerful items exist early but are hard to find
+* Progression through gear is discovery-based
+* Encourages exploration and risk taking
+
+This reduces artificial scaling and creates a more grounded experience.
+
+**Reference:**
+[https://www.nexusmods.com/skyrimspecialedition/mods/27133](https://www.nexusmods.com/skyrimspecialedition/mods/27133)
+
+---
+
+## 8. The World Ages — Enemies Get Tougher
+
+### **Time-Based Enemy Scaling**
+
+Instead of enemies constantly matching your level, the world evolves over **time**:
+
+* Longer playtime results in harder foes
+* Halting progression carries risk
+* You must prepare or adapt along the way
+
+This gives the world a sense of organic progression.
+
+**Reference:**
+[https://www.nexusmods.com/skyrimspecialedition/mods/27203](https://www.nexusmods.com/skyrimspecialedition/mods/27203)
+
+---
+
+## 9. Artifacts and Power Play
+
+### **Corruption – Abusing Artifacts Has Consequences**
+
+Magic and powerful items come with consequences:
+
+* Using certain artifacts can corrupt you
+* Long-term effects are meaningful
+* The price of power becomes part of the story
+
+This encourages careful consideration of powerful tools.
+
+**Reference:**
+[https://www.nexusmods.com/skyrimspecialedition/mods/167331](https://www.nexusmods.com/skyrimspecialedition/mods/167331)
+
+---
+
+## 10. Resulting Experience
+
+Together, these systems create a gameplay loop where:
+
+* Survival defines the early journey
+* Progression is earned through choice and effort
+* Quests give real progression rewards
+* Loot and enemies reflect an evolving world
+* Power always carries weight and consequence
+
+Nordic Gleam Core does not ask *“What level are you?”*
+It asks *“Are you prepared?”*
+
+---
+
+## Design Intent Summary
+
+Nordic Gleam Core aims to deliver:
+
+* A **true survival RPG-like Skyrim**
+* Reduced reliance on arbitrary scaling
+* Tight linkage between progression, economy, and survival
+* A world that feels independent and reactive
+
+This is not a power fantasy.
+It is a **living, reactive RPG foundation**.
+
+[1]: https://www.nexusmods.com/skyrimspecialedition/mods/667?utm_source=chatgpt.com "Campfire - Complete Camping System (Supports Skyrim VR)"
+[2]: https://www.nexusmods.com/skyrimspecialedition/mods/671?utm_source=chatgpt.com "Frostfall - Hypothermia Camping Survival - Nexus Mods"
