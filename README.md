@@ -1,6 +1,6 @@
 <!-- Main Menu Image -->
 <p align="center">
-  <img src="main-menu.png" alt="Nordic Gleam Core Main Menu">
+  <img src="./main-menu.png" alt="Nordic Gleam Core Main Menu">
 </p>
 
 # Nordic Gleam Core  
@@ -8,12 +8,12 @@
 
 <p align="center">
   <a href="https://discord.gg/YOUR_DISCORD_INVITE">
-    <img src="THE-banner-mod-page.gif" alt="Nordic Gleam Core Discord">
+    <img src="./THE-banner-mod-page.gif" alt="Nordic Gleam Core Discord">
   </a>
 </p>
 
 <p align="center">
-  <img src="banner.png" alt="Nymph Nerds Banner">
+  <img src="./banner.png" alt="Nymph Nerds Banner">
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ Nordic Gleam Core reshapes Skyrim into a survival-driven RPG through tightly int
 - Economic tradeoffs for power
 - Artifact corruption and long-term consequences
 
-For a detailed breakdown of all gameplay systems, mechanics, and mod references, see the **[GAMEPLAY.md](GAMEPLAY.md)** file.  
+For a detailed breakdown of all gameplay systems, mechanics, and mod references, see the **[GAMEPLAY.md](./GAMEPLAY.md)** file.  
 This includes descriptions and Nexus links for every core gameplay mod used in the list.
 
 ---
