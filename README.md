@@ -86,6 +86,12 @@ Nymphs Savage Symphony reshapes Skyrim into a survival-driven RPG through tightl
 For a detailed breakdown of all gameplay systems, mechanics, and mod references, see the **[GAMEPLAY.md](./gameplay.md)** file.  
 This includes descriptions and Nexus links for every core gameplay mod used in the list.
 
+📘 **Technical Reference**  
+For installation structure, Root Builder usage, ReShade customization, save requirements, and troubleshooting expectations, see **[TECHNICAL.md](./TECHNICAL.md)**.
+
+Gameplay systems assume the technical structure described there is intact.
+
+
 ---
 
 ## Who This Modlist Is For
