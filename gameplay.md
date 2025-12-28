@@ -218,6 +218,12 @@ You may use your **own preferred ReShade preset**:
 
 This allows full customization without breaking the list structure.
 
+📘 **Technical Reference**  
+For installation structure, Root Builder usage, ReShade customization, save requirements, and troubleshooting expectations, see **[TECHNICAL.md](./TECHNICAL.md)**.
+
+Gameplay systems assume the technical structure described there is intact.
+
+
 ---
 
 ## Resulting Experience
