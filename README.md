@@ -79,7 +79,7 @@ Nymphs Savage Symphony reshapes Skyrim into a survival-driven RPG through tightl
 - Skill-based character growth
 - Quest-driven perk progression
 - Unleveled, world-based loot
-- Time-based enemy scaling
+- Time-based enemy scaling (Independent of Player level)
 - Economic tradeoffs for power
 - Artifact corruption and long-term consequences
 
