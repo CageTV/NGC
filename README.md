@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://discord.gg/YOUR_DISCORD_INVITE">
-    <img src="./THE-banner-mod-page.gif" alt="Nymphs Savage Symphony Discord">
+    <img src="./THE-banner-mod-page.gif" alt="Nymphs Savage World Discord">
   </a>
 </p>
 
@@ -64,6 +64,10 @@ Nymphs Savage Symphony is built on the following principles:
 - **Time Has Consequences** – The world evolves independently of the player
 - **Survival Is Foundational** – Preparation determines success
 - **Lore-Friendly** – Skyrim remains recognizably Nordic
+
+📌 **Important:**  
+Before playing or modifying the list, **review the full gameplay breakdown in** **[GAMEPLAY.md](./gameplay.md)**.  
+Many systems are interconnected and are intended to be understood as a whole.
 
 ---
 
@@ -124,10 +128,8 @@ Visuals support gameplay — they do not replace it.
 
 ## Related Projects
 
-### Nymph’s Savage World
+### Nymph’s Savage Symphony
 **Nymph’s Savage World** is the broader flagship project from *Nymph Nerds*, focusing on large-scale worldbuilding, visual cohesion, and expanded gameplay experiences.
-
-While **Nymphs Savage Symphony** serves as a focused gameplay and rendering foundation, **Nymph’s Savage World** represents the extended vision — building upon similar design philosophies at a much larger scope.
 
 🔗 **Project Repository:**  
 https://github.com/CageTV/nymphs-savage-world
