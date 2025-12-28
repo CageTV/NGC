@@ -1,11 +1,17 @@
-# Gameplay Overview – Nordic Gleam Core
+# Gameplay Overview – Nymphs Savage Symphony
 
-Nordic Gleam Core restructures Skyrim’s gameplay into a **survival-driven, progression-focused RPG** where preparation, time, and decision-making matter more than raw player level.
+Nymphs Savage Symphony restructures Skyrim’s gameplay into a **survival-driven, progression-focused RPG** where preparation, time, and decision-making matter more than raw player level.
+
+📌 **Important New Game Behavior**
+
+* **All gameplay systems start automatically on a new game**
+* You begin with **+3 perk points** to establish an early build direction
+* A **Custom Skills Framework** is integrated for extended, modular progression
+* A **custom-made Creature AI patch** combining **SkyTEST** and **Animallica** creates a dense, reactive ecosystem — a true **hunter’s paradise** where wildlife behavior, danger, and opportunity feel alive
 
 Rather than scaling the world around the player, the player must grow **into** the world.
 
-This document explains how the major gameplay systems interact, in the order they are experienced during play.
-Each section includes a reference link to the original mod author’s description page on Nexus for further details.
+This document explains how the major gameplay systems interact, in the order they are experienced during play. Each section includes a reference link to the original mod author’s description page on Nexus for further details.
 
 ---
 
@@ -22,7 +28,7 @@ Campfire provides a rich, standalone **camping and outdoor survival system**:
 * Interact with followers around fires
 * Collect wood and supplies in the environment
 
-**Reference:** [https://www.nexusmods.com/skyrimspecialedition/mods/667](https://www.nexusmods.com/skyrimspecialedition/mods/667) ([Nexus Mods][1])
+**Reference:** [https://www.nexusmods.com/skyrimspecialedition/mods/667](https://www.nexusmods.com/skyrimspecialedition/mods/667)
 
 ---
 
@@ -39,160 +45,190 @@ Frostfall tracks temperature, weather, and exposure in real time:
 * Weather and terrain influence your state
 * Deep immersive survival effects without excessive tedium
 
-**Reference:** [https://www.nexusmods.com/skyrimspecialedition/mods/671](https://www.nexusmods.com/skyrimspecialedition/mods/671) ([Nexus Mods][2])
+**Reference:** [https://www.nexusmods.com/skyrimspecialedition/mods/671](https://www.nexusmods.com/skyrimspecialedition/mods/671)
 
 ---
 
-## 3. Early Progression — Survival Defines the Start
+## 3. The Hunt Defines the Early Game
 
-### **Skills of Survival**
+### **Hunterborn – Hunting, Skinning, and Survival Expansion**
 
-Survival and physical resilience are built into your progression from the beginning.
+Hunting is transformed into a deep, skill-driven survival activity:
 
-Experience affects:
+* Field dress and skin animals manually
+* Harvest resources based on tools and skill
+* Hunting takes time, preparation, and awareness
+* Animal remains persist in the world
 
-* Endurance for travel and exposure
-* Resource management strength
-* Environmental resilience
-* Overall sustainability in the wild
+Hunterborn integrates directly with survival, economy, and crafting systems, making wildlife a core pillar of progression rather than background content.
 
-This makes the first stages of the game less forgiving and more strategic.
-
-**Reference:**
-[https://www.nexusmods.com/skyrimspecialedition/mods/89754](https://www.nexusmods.com/skyrimspecialedition/mods/89754)
+**Reference:** [https://www.nexusmods.com/skyrimspecialedition/mods/7900](https://www.nexusmods.com/skyrimspecialedition/mods/7900)
 
 ---
 
-## 4. Develop Your Abilities — Skills With Purpose
+## 4. Wildlife Becomes an Ecosystem
 
-### **Set of Skills**
+### **SkyTEST + Animallica – Custom Creature AI & Population Overhaul**
 
-Skyrim’s skill system is expanded to reward deliberate investment:
+The world’s wildlife is no longer static or predictable.
 
-* Skills strengthen through use
-* Builds become distinct and specialized
-* Power doesn’t arrive automatically
+**SkyTEST** introduces advanced animal AI:
 
-This encourages thoughtful character development over passive scaling.
+* Pack behavior and predator logic
+* Territorial responses
+* Fleeing, stalking, and ambush behavior
 
-**Reference:**
-[https://www.nexusmods.com/skyrimspecialedition/mods/55535](https://www.nexusmods.com/skyrimspecialedition/mods/55535)
+**Animallica** expands creature variety and distribution:
+
+* New species and variants
+* Denser wilderness populations
+* More organic encounters
+
+A **custom AI patch** blends both mods into a unified ecosystem, creating a dangerous, rewarding, and reactive wilderness — ideal for hunters, travelers, and survival-focused playstyles.
+
+**References:**
+
+* [https://www.nexusmods.com/skyrimspecialedition/mods/1104](https://www.nexusmods.com/skyrimspecialedition/mods/1104)
+* [https://www.nexusmods.com/skyrimspecialedition/mods/20456](https://www.nexusmods.com/skyrimspecialedition/mods/20456)
 
 ---
 
-## 5. Quests Become Progression Drivers
+## 5. Early Progression — Identity Over Levels
+
+### **Disparity – Player Character Class and Race Overhaul**
+
+Your character’s identity meaningfully shapes progression from the start:
+
+* Racial traits matter long-term
+* Attribute distribution affects survivability
+* Builds feel distinct early
+* Power curves are flattened and intentional
+
+Disparity ensures the early game is defined by **who you are**, not just what level you’ve reached.
+
+**Reference:** [https://www.nexusmods.com/skyrimspecialedition/mods/110789](https://www.nexusmods.com/skyrimspecialedition/mods/110789)
+
+---
+
+## 6. Develop Your Abilities — Skills With Purpose
+
+### **Set of Skills + Custom Skills Framework**
+
+Skill progression rewards deliberate investment:
+
+* Skills improve through meaningful use
+* Custom skills expand progression paths
+* Builds specialize instead of converging
+
+The Custom Skills Framework allows future expansion without destabilizing core systems.
+
+**Reference:** [https://www.nexusmods.com/skyrimspecialedition/mods/55535](https://www.nexusmods.com/skyrimspecialedition/mods/55535)
+
+---
+
+## 7. Quests Become Progression Drivers
 
 ### **QAPP – Quests Award Perk Points**
 
-Completing quests now has mechanical significance:
+Narrative progression now drives mechanical growth:
 
-* Perk points are awarded for quest completion
-* Progress is tied to actions, not repetitive grinding
-* Narrative engagement is reinforced
+* Perk points are awarded through quest completion
+* Story engagement replaces grind-based leveling
+* Major decisions carry tangible rewards
 
-This makes questing feel meaningful beyond just story.
-
-**Reference:**
-[https://www.nexusmods.com/skyrimspecialedition/mods/33081](https://www.nexusmods.com/skyrimspecialedition/mods/33081)
+**Reference:** [https://www.nexusmods.com/skyrimspecialedition/mods/33081](https://www.nexusmods.com/skyrimspecialedition/mods/33081)
 
 ---
 
-## 6. Power Has a Price — The Economy of Growth
+## 8. Power Has a Price — Economy and Crafting
 
-### **Buy Stats and Perks**
+### **Complete Crafting Overhaul Remastered**
 
-Getting stronger isn’t free:
+Crafting is rebalanced into the survival economy:
 
-* Increasing attributes costs gold
-* Perks also cost a finite resource
-* Economy and progression are interwoven
-* Players must weigh survival vs. strength
+* Crafting progression is slower and deliberate
+* Equipment value is restructured
+* Resource management matters
+* Crafting supports survival, not dominance
 
-Gold becomes strategically important instead of trivial.
+Crafting is a strategic choice, not a shortcut to power.
 
-**Reference:**
-[https://www.nexusmods.com/skyrimspecialedition/mods/26950](https://www.nexusmods.com/skyrimspecialedition/mods/26950)
-
----
-
-## 7. Loot and Equipment Are Organic
-
-### **Unleveled Loot and Minimalistic Gear**
-
-Gear doesn’t magically match your power:
-
-* Loot reflects the world, not your level
-* Rare, powerful items exist early but are hard to find
-* Progression through gear is discovery-based
-* Encourages exploration and risk taking
-
-This reduces artificial scaling and creates a more grounded experience.
-
-**Reference:**
-[https://www.nexusmods.com/skyrimspecialedition/mods/27133](https://www.nexusmods.com/skyrimspecialedition/mods/27133)
+**Reference:** [https://www.nexusmods.com/skyrimspecialedition/mods/28608](https://www.nexusmods.com/skyrimspecialedition/mods/28608)
 
 ---
 
-## 8. The World Ages — Enemies Get Tougher
+## 9. The Cost of Power
+
+### **Corruption – Artifacts and Consequences**
+
+Powerful artifacts extract a toll:
+
+* Using certain items causes corruption
+* Effects persist and evolve over time
+* Long-term consequences shape your character
+
+The temptation of power becomes a narrative and mechanical risk.
+
+**Reference:** [https://www.nexusmods.com/skyrimspecialedition/mods/167331](https://www.nexusmods.com/skyrimspecialedition/mods/167331)
+
+---
+
+## 10. Time Shapes the World
 
 ### **Time-Based Enemy Scaling**
 
-Instead of enemies constantly matching your level, the world evolves over **time**:
+The world evolves independently of the player:
 
-* Longer playtime results in harder foes
-* Halting progression carries risk
-* You must prepare or adapt along the way
+* Enemies grow stronger as time passes
+* Delays and stagnation increase danger
+* Preparation becomes mandatory
 
-This gives the world a sense of organic progression.
-
-**Reference:**
-[https://www.nexusmods.com/skyrimspecialedition/mods/27203](https://www.nexusmods.com/skyrimspecialedition/mods/27203)
+Progression is measured in **time survived**, not levels gained.
 
 ---
 
-## 9. Artifacts and Power Play
+## Visual Pipeline & Modlist Infrastructure
 
-### **Corruption – Abusing Artifacts Has Consequences**
+### **Root Builder & ReShade Support**
 
-Magic and powerful items come with consequences:
+The list uses **Root Builder** and **ReShade** for clean visual management.
 
-* Using certain artifacts can corrupt you
-* Long-term effects are meaningful
-* The price of power becomes part of the story
+You may use your **own preferred ReShade preset**:
 
-This encourages careful consideration of powerful tools.
+1. Create an empty mod
+2. Inside it, create a folder named **ROOT**
+3. Place your ReShade files inside the ROOT folder
+4. Disable the **Nymphs ReShade preset mod**
+5. **Keep the base ReShade mod enabled**
 
-**Reference:**
-[https://www.nexusmods.com/skyrimspecialedition/mods/167331](https://www.nexusmods.com/skyrimspecialedition/mods/167331)
+This allows full customization without breaking the list structure.
 
 ---
 
-## 10. Resulting Experience
+## Resulting Experience
 
 Together, these systems create a gameplay loop where:
 
 * Survival defines the early journey
-* Progression is earned through choice and effort
-* Quests give real progression rewards
-* Loot and enemies reflect an evolving world
-* Power always carries weight and consequence
+* Wildlife feels alive and dangerous
+* Progression is intentional and earned
+* Crafting and economy reinforce restraint
+* Power always carries consequences
 
-Nordic Gleam Core does not ask *“What level are you?”*
+Nymphs Savage Symphony does not ask *“What level are you?”*
 It asks *“Are you prepared?”*
 
 ---
 
 ## Design Intent Summary
 
-Nordic Gleam Core aims to deliver:
+Nymphs Savage World aims to deliver:
 
-* A **true survival RPG-like Skyrim**
-* Reduced reliance on arbitrary scaling
-* Tight linkage between progression, economy, and survival
-* A world that feels independent and reactive
+* A **true survival-driven Skyrim experience**
+* Deep hunting and ecosystem gameplay
+* Reduced artificial scaling
+* Long-term character consequence
+* A stable foundation for expansion
 
 This is not a power fantasy.
 It is a **living, reactive RPG foundation**.
-
-[1]: https://www.nexusmods.com/skyrimspecialedition/mods/667?utm_source=chatgpt.com "Campfire - Complete Camping System (Supports Skyrim VR)"
-[2]: https://www.nexusmods.com/skyrimspecialedition/mods/671?utm_source=chatgpt.com "Frostfall - Hypothermia Camping Survival - Nexus Mods"
