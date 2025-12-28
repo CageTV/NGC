@@ -1,14 +1,14 @@
 <!-- Main Menu Image -->
 <p align="center">
-  <img src="./main-menu.png" alt="Nordic Gleam Core Main Menu">
+  <img src="./main-menu.png" alt="Nymphs Savage Symphony Main Menu">
 </p>
 
-# Nordic Gleam Core  
+# Nymphs Savage Symphony  
 *<sub><i>a Nymph Nerds Production</i></sub>*
 
 <p align="center">
   <a href="https://discord.gg/YOUR_DISCORD_INVITE">
-    <img src="./THE-banner-mod-page.gif" alt="Nordic Gleam Core Discord">
+    <img src="./THE-banner-mod-page.gif" alt="Nymphs Savage Symphony Discord">
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 ## Overview
 
-**Nordic Gleam Core** is a **large, gameplay-focused Skyrim Special Edition / Anniversary Edition modlist foundation** built around **Community Shaders and a full Physically Based Rendering (PBR) workflow**.
+**Nymphs Savage Symphony** is a **large, gameplay-focused Skyrim Special Edition / Anniversary Edition modlist foundation** built around **Community Shaders and a full Physically Based Rendering (PBR) workflow**.
 
 The list modernizes Skyrim’s visuals **without ENB**, while delivering a deeply interconnected gameplay experience centered on **survival, progression, time-based challenge, and consequence**.
 
@@ -41,7 +41,7 @@ This is not a lightweight vanilla+ list — it is a **substantial, performance-c
 
 ## Visual & Technical Direction
 
-Nordic Gleam Core uses modern rendering technology while maintaining stability and performance:
+Nymphs Savage Symphony uses modern rendering technology while maintaining stability and performance:
 
 - **Community Shaders–based rendering**
 - **Full PBR material pipeline**
@@ -57,7 +57,7 @@ Nordic Gleam Core uses modern rendering technology while maintaining stability a
 
 ## Gameplay Philosophy
 
-Nordic Gleam Core is built on the following principles:
+Nymphs Savage Symphony is built on the following principles:
 
 - **Gameplay First** – Systems matter more than spectacle
 - **Earned Progression** – Power is never free
@@ -69,7 +69,7 @@ Nordic Gleam Core is built on the following principles:
 
 ## Core Gameplay Systems
 
-Nordic Gleam Core reshapes Skyrim into a survival-driven RPG through tightly integrated systems:
+Nymphs Savage Symphony reshapes Skyrim into a survival-driven RPG through tightly integrated systems:
 
 - Survival and environmental pressure
 - Skill-based character growth
@@ -86,7 +86,7 @@ This includes descriptions and Nexus links for every core gameplay mod used in t
 
 ## Who This Modlist Is For
 
-Nordic Gleam Core is ideal for players who want:
+Nymphs Savage Symphony is ideal for players who want:
 
 - A modern-looking Skyrim without ENB
 - Community Shaders + PBR visuals
@@ -111,7 +111,7 @@ This is a **systems-driven foundation**, not a visual tech demo.
 
 ## Project Scope & Intent
 
-Nordic Gleam Core is intended to be:
+Nymphs Savage Symphony is intended to be:
 
 - A **long-term gameplay foundation**
 - A **stable Community Shaders + PBR base**
@@ -127,7 +127,7 @@ Visuals support gameplay — they do not replace it.
 ### Nymph’s Savage World
 **Nymph’s Savage World** is the broader flagship project from *Nymph Nerds*, focusing on large-scale worldbuilding, visual cohesion, and expanded gameplay experiences.
 
-While **Nordic Gleam Core** serves as a focused gameplay and rendering foundation, **Nymph’s Savage World** represents the extended vision — building upon similar design philosophies at a much larger scope.
+While **Nymphs Savage Symphony** serves as a focused gameplay and rendering foundation, **Nymph’s Savage World** represents the extended vision — building upon similar design philosophies at a much larger scope.
 
 🔗 **Project Repository:**  
 https://github.com/CageTV/nymphs-savage-world
