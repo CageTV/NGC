@@ -1,3 +1,18 @@
+# ⚠️ READ THIS FIRST
+
+This modlist is **not plug-and-play** and **not a power fantasy**.
+
+* **All core systems start automatically on a new game**
+* Progression is **slow, deliberate, and consequence-driven**
+* Ignoring survival, time pressure, or preparation **will get you killed**
+* Many systems are **interconnected** and assume others are active
+
+📌 **Before playing, modifying, or troubleshooting**, you are expected to read this entire document.
+
+If you attempt to disable or replace systems without understanding how they interact, instability and balance issues are expected.
+
+---
+
 # Gameplay Overview – Nymphs Savage Symphony
 
 Nymphs Savage Symphony restructures Skyrim’s gameplay into a **survival-driven, progression-focused RPG** where preparation, time, and decision-making matter more than raw player level.
@@ -222,7 +237,7 @@ It asks *“Are you prepared?”*
 
 ## Design Intent Summary
 
-Nymphs Savage World aims to deliver:
+Nymphs Savage Symphony aims to deliver:
 
 * A **true survival-driven Skyrim experience**
 * Deep hunting and ecosystem gameplay
